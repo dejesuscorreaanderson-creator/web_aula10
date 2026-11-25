@@ -1,1 +1,1 @@
-let nome = prompt("Digite seu nome:")
+let nome = prompt("Digite seu nome:") n
